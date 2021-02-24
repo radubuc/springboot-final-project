@@ -1,0 +1,11 @@
+2021-02-24 18:00:03,154 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2021-02-24 18:01:18,693 [Worker-7: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.springbootweektwo:inventoryManagement:0.0.1-SNAPSHOT @ C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Week 2\inventoryManagement\pom.xml.
+2021-02-24 18:01:26,409 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-24 18:01:26,416 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-02-24 18:01:26,454 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-02-24 18:01:26,484 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-24 18:01:26,486 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Week 2\inventoryManagement\src\test\resources
+2021-02-24 18:01:27,143 [Worker-1: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.springbootweektwo:inventoryManagement:0.0.1-SNAPSHOT @ C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Week 2\inventoryManagement\pom.xml.
+2021-02-24 18:01:29,350 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-24 18:01:29,354 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-02-24 18:01:29,358 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
