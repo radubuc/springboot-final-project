@@ -1,0 +1,76 @@
+CREATE database if not exists indieWearhaul;
+USE indieWearhaul;
+DROP table if exists customer_addresses;
+DROP table if exists product_orders;
+DROP table if exists customer;
+DROP table if exists order;
+DROP table if exists address;
+DROP table if exists product;
+DROP table if exists credentials;
+
+CREATE table credentials (
+	id long not null auto_increment,
+	username varchar(20) not null,
+	password varchar(20) not null,
+	primary key(username)
+	primary key(id)
+);
+
+CREATE table address;
+	id long not null auto_increment,
+	street varchar(100) not null,
+	city varchar(50) not null,
+	state varchar(2) not null,
+	zip varchar(2) not null,
+	primary key(id)
+);
+
+CREATE table product;
+	id long not null auto_increment,
+	name varchar(50) not null,
+	desc varchar(255)
+	price double 6,2 not null,
+	qty int(5) not null
+	primary key(id)
+);
+
+CREATE table order (
+	id long not null auto_increment,
+	customer_id long not null auto_increment,
+	total double 6,2 not null,
+	date_ordered datetime default current_timestamp,
+	date_delivered datetime,
+	primary key(id),
+	foreign key(customer_id) references customer_addresses(customer_id)
+);
+
+CREATE table customer (
+	id long not null auto_increment,
+	firstName varchar(30) not null,
+	lastName varchar(30) not null,
+	email varchar(50) not null,
+	phone varchar(15) not null,
+	cred_id long not null, auto_increment,
+	primary key(id),
+	primary key(email),
+	foreign key(cred_id) references cred(id),
+);
+
+CREATE table product_orders (
+	order_id long not null,
+	product_id long not null,
+	qty int(5) not null,
+	primary key(order_id),
+	primary key(product_id),
+	foreign key(order_id) references order(id),
+	foreign key(product_id) references product(id)
+);
+
+CREATE table customer_addresses (
+	customer_id long not null, auto_increment,
+	address_id long not null, auto-increment,
+	primary key(customer_id),
+	primary key(address_id),
+	foreign key(customer_id) references customer(id),
+	foreign key(address_id) references address(id)
+);
