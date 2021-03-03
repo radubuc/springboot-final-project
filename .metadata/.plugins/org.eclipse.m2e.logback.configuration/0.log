@@ -355,3 +355,553 @@
 2021-02-26 17:52:30,036 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\main\resources
 2021-02-26 17:52:30,038 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2021-02-26 17:52:30,038 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\test\resources
+2021-02-27 16:36:25,935 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2021-02-27 16:40:16,487 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-27 16:40:16,490 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\main\resources
+2021-02-27 16:40:16,491 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\main\resources
+2021-02-27 16:40:16,497 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-27 16:40:16,497 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\test\resources
+2021-02-27 16:53:07,256 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-27 16:53:07,256 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\main\resources
+2021-02-27 16:53:07,257 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\main\resources
+2021-02-27 16:53:07,259 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-27 16:53:07,260 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\test\resources
+2021-02-27 16:53:25,253 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-27 16:53:25,254 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\main\resources
+2021-02-27 16:53:25,254 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\main\resources
+2021-02-27 16:53:25,258 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-27 16:53:25,258 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\test\resources
+2021-02-27 17:00:31,101 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-27 17:00:31,102 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\main\resources
+2021-02-27 17:00:31,102 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\main\resources
+2021-02-27 17:00:31,105 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-27 17:00:31,105 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\test\resources
+2021-02-27 17:00:46,139 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-27 17:00:46,139 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\main\resources
+2021-02-27 17:00:46,140 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\main\resources
+2021-02-27 17:00:46,146 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-27 17:00:46,147 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\test\resources
+2021-02-27 17:02:07,603 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-27 17:02:07,604 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\main\resources
+2021-02-27 17:02:07,604 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\main\resources
+2021-02-27 17:02:07,613 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-27 17:02:07,614 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\test\resources
+2021-02-27 17:02:20,716 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-27 17:02:20,718 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\main\resources
+2021-02-27 17:02:20,719 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\main\resources
+2021-02-27 17:02:20,721 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-27 17:02:20,722 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\test\resources
+2021-02-27 17:02:31,766 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-27 17:02:31,767 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\main\resources
+2021-02-27 17:02:31,768 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\main\resources
+2021-02-27 17:02:31,776 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-27 17:02:31,776 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\test\resources
+2021-02-27 17:03:34,531 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-27 17:03:34,531 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\main\resources
+2021-02-27 17:03:34,532 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\main\resources
+2021-02-27 17:03:34,534 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-27 17:03:34,535 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\test\resources
+2021-02-27 17:04:40,628 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-27 17:04:40,629 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\main\resources
+2021-02-27 17:04:40,629 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\main\resources
+2021-02-27 17:04:40,632 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-27 17:04:40,632 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\test\resources
+2021-02-27 17:05:15,876 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-27 17:05:15,876 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\main\resources
+2021-02-27 17:05:15,876 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\main\resources
+2021-02-27 17:05:15,879 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-27 17:05:15,879 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\test\resources
+2021-02-27 17:05:31,131 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-27 17:05:31,132 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\main\resources
+2021-02-27 17:05:31,132 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\main\resources
+2021-02-27 17:05:31,135 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-27 17:05:31,135 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\test\resources
+2021-02-27 17:06:03,196 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-27 17:06:03,196 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\main\resources
+2021-02-27 17:06:03,196 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\main\resources
+2021-02-27 17:06:03,199 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-27 17:06:03,199 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\test\resources
+2021-02-27 17:07:24,195 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-27 17:07:24,195 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\main\resources
+2021-02-27 17:07:24,195 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\main\resources
+2021-02-27 17:07:24,198 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-27 17:07:24,198 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\test\resources
+2021-02-27 17:08:05,313 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-27 17:08:05,313 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\main\resources
+2021-02-27 17:08:05,313 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\main\resources
+2021-02-27 17:08:05,314 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-27 17:08:05,315 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\test\resources
+2021-02-27 17:08:43,090 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-27 17:08:43,090 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\main\resources
+2021-02-27 17:08:43,091 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\main\resources
+2021-02-27 17:08:43,093 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-27 17:08:43,094 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\test\resources
+2021-02-27 17:09:35,913 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-27 17:09:35,913 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\main\resources
+2021-02-27 17:09:35,913 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\main\resources
+2021-02-27 17:09:35,915 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-27 17:09:35,915 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\test\resources
+2021-02-27 17:12:57,687 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-27 17:12:57,687 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\main\resources
+2021-02-27 17:12:57,687 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\main\resources
+2021-02-27 17:12:57,689 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-27 17:12:57,689 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\test\resources
+2021-02-27 17:15:25,641 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-27 17:15:25,642 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\main\resources
+2021-02-27 17:15:25,642 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\main\resources
+2021-02-27 17:15:25,644 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-27 17:15:25,645 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\test\resources
+2021-02-27 17:18:12,380 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-27 17:18:12,381 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\main\resources
+2021-02-27 17:18:12,381 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\main\resources
+2021-02-27 17:18:12,383 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-27 17:18:12,383 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\test\resources
+2021-02-27 17:18:50,828 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-27 17:18:50,828 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\main\resources
+2021-02-27 17:18:50,828 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\main\resources
+2021-02-27 17:18:50,832 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-27 17:18:50,832 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\test\resources
+2021-02-27 17:20:23,646 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-27 17:20:23,646 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\main\resources
+2021-02-27 17:20:23,646 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\main\resources
+2021-02-27 17:20:23,648 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-27 17:20:23,649 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\test\resources
+2021-02-27 17:32:42,828 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-27 17:32:42,831 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\main\resources
+2021-02-27 17:32:42,832 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\main\resources
+2021-02-27 17:32:42,844 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-27 17:32:42,846 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\test\resources
+2021-02-27 17:33:12,541 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-27 17:33:12,541 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\main\resources
+2021-02-27 17:33:12,541 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\main\resources
+2021-02-27 17:33:12,545 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-27 17:33:12,547 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\test\resources
+2021-02-27 17:33:24,105 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-27 17:33:24,106 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\main\resources
+2021-02-27 17:33:24,106 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\main\resources
+2021-02-27 17:33:24,108 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-27 17:33:24,109 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\test\resources
+2021-02-27 17:34:47,876 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-27 17:34:47,876 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\main\resources
+2021-02-27 17:34:47,877 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\main\resources
+2021-02-27 17:34:47,879 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-27 17:34:47,880 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\test\resources
+2021-02-27 17:38:51,179 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-27 17:38:51,179 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\main\resources
+2021-02-27 17:38:51,179 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\main\resources
+2021-02-27 17:38:51,181 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-27 17:38:51,182 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\test\resources
+2021-02-27 17:39:08,765 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-27 17:39:08,766 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\main\resources
+2021-02-27 17:39:08,766 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\main\resources
+2021-02-27 17:39:08,768 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-27 17:39:08,769 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\test\resources
+2021-02-27 17:41:16,931 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-27 17:41:16,931 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\main\resources
+2021-02-27 17:41:16,931 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\main\resources
+2021-02-27 17:41:16,933 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-27 17:41:16,934 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\test\resources
+2021-02-27 17:42:09,317 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-27 17:42:09,318 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\main\resources
+2021-02-27 17:42:09,318 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\main\resources
+2021-02-27 17:42:09,321 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-27 17:42:09,322 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\test\resources
+2021-02-27 17:44:00,158 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-27 17:44:00,158 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\main\resources
+2021-02-27 17:44:00,158 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\main\resources
+2021-02-27 17:44:00,164 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-27 17:44:00,165 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\test\resources
+2021-02-27 17:44:30,733 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-27 17:44:30,734 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\main\resources
+2021-02-27 17:44:30,734 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\main\resources
+2021-02-27 17:44:30,736 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-27 17:44:30,737 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\test\resources
+2021-02-27 17:45:00,849 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-27 17:45:00,849 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\main\resources
+2021-02-27 17:45:00,850 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\main\resources
+2021-02-27 17:45:00,852 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-27 17:45:00,853 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\test\resources
+2021-02-27 17:48:44,180 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-27 17:48:44,181 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\main\resources
+2021-02-27 17:48:44,181 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\main\resources
+2021-02-27 17:48:44,183 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-27 17:48:44,184 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\test\resources
+2021-02-27 17:54:22,502 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-27 17:54:22,503 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\main\resources
+2021-02-27 17:54:22,503 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\main\resources
+2021-02-27 17:54:22,506 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-27 17:54:22,506 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\test\resources
+2021-02-27 17:56:14,684 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-27 17:56:14,684 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\main\resources
+2021-02-27 17:56:14,685 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\main\resources
+2021-02-27 17:56:14,686 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-27 17:56:14,687 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\test\resources
+2021-02-27 18:02:19,642 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-27 18:02:19,642 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\main\resources
+2021-02-27 18:02:19,643 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\main\resources
+2021-02-27 18:02:19,653 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-27 18:02:19,655 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\test\resources
+2021-02-27 18:02:44,851 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-27 18:02:44,852 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\main\resources
+2021-02-27 18:02:44,852 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\main\resources
+2021-02-27 18:02:44,855 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-27 18:02:44,858 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\test\resources
+2021-02-27 18:03:15,502 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-27 18:03:15,503 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\main\resources
+2021-02-27 18:03:15,504 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\main\resources
+2021-02-27 18:03:15,506 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-27 18:03:15,507 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\test\resources
+2021-02-27 18:03:37,332 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-27 18:03:37,333 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\main\resources
+2021-02-27 18:03:37,333 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\main\resources
+2021-02-27 18:03:37,335 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-27 18:03:37,335 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\test\resources
+2021-02-27 18:04:33,011 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-27 18:04:33,011 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\main\resources
+2021-02-27 18:04:33,012 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\main\resources
+2021-02-27 18:04:33,015 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-27 18:04:33,015 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\test\resources
+2021-02-27 18:04:48,515 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-27 18:04:48,515 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\main\resources
+2021-02-27 18:04:48,515 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\main\resources
+2021-02-27 18:04:48,517 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-27 18:04:48,518 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\test\resources
+2021-02-27 18:05:20,812 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-27 18:05:20,812 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\main\resources
+2021-02-27 18:05:20,812 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\main\resources
+2021-02-27 18:05:20,815 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-27 18:05:20,815 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\test\resources
+2021-02-27 18:05:34,805 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-27 18:05:34,807 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\main\resources
+2021-02-27 18:05:34,809 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\main\resources
+2021-02-27 18:05:34,812 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-27 18:05:34,812 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\test\resources
+2021-02-27 18:06:13,021 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-27 18:06:13,021 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\main\resources
+2021-02-27 18:06:13,021 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\main\resources
+2021-02-27 18:06:13,023 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-27 18:06:13,024 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\test\resources
+2021-02-27 18:06:25,841 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-27 18:06:25,841 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\main\resources
+2021-02-27 18:06:25,841 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\main\resources
+2021-02-27 18:06:25,850 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-27 18:06:25,853 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\test\resources
+2021-02-27 18:06:35,098 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-27 18:06:35,099 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\main\resources
+2021-02-27 18:06:35,099 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\main\resources
+2021-02-27 18:06:35,102 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-27 18:06:35,102 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\test\resources
+2021-02-27 18:09:39,917 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-27 18:09:39,918 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\main\resources
+2021-02-27 18:09:39,918 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\main\resources
+2021-02-27 18:09:39,919 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-27 18:09:39,920 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\test\resources
+2021-02-27 18:10:15,658 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-27 18:10:15,658 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\main\resources
+2021-02-27 18:10:15,658 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\main\resources
+2021-02-27 18:10:15,660 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-27 18:10:15,660 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\test\resources
+2021-02-27 18:10:44,591 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-27 18:10:44,591 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\main\resources
+2021-02-27 18:10:44,591 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\main\resources
+2021-02-27 18:10:44,593 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-27 18:10:44,594 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\test\resources
+2021-02-27 18:11:14,042 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-27 18:11:14,043 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\main\resources
+2021-02-27 18:11:14,043 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\main\resources
+2021-02-27 18:11:14,045 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-27 18:11:14,045 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\test\resources
+2021-02-27 18:11:46,232 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-27 18:11:46,232 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\main\resources
+2021-02-27 18:11:46,233 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\main\resources
+2021-02-27 18:11:46,236 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-27 18:11:46,237 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\test\resources
+2021-02-27 18:12:06,250 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-27 18:12:06,250 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\main\resources
+2021-02-27 18:12:06,250 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\main\resources
+2021-02-27 18:12:06,252 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-27 18:12:06,252 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\test\resources
+2021-02-27 18:12:20,503 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-27 18:12:20,503 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\main\resources
+2021-02-27 18:12:20,503 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\main\resources
+2021-02-27 18:12:20,505 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-27 18:12:20,505 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\test\resources
+2021-02-27 18:12:58,493 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-27 18:12:58,494 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\main\resources
+2021-02-27 18:12:58,494 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\main\resources
+2021-02-27 18:12:58,496 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-27 18:12:58,496 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\test\resources
+2021-02-27 18:13:19,293 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-27 18:13:19,293 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\main\resources
+2021-02-27 18:13:19,293 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\main\resources
+2021-02-27 18:13:19,295 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-27 18:13:19,295 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\test\resources
+2021-02-27 18:13:31,641 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-27 18:13:31,641 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\main\resources
+2021-02-27 18:13:31,641 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\main\resources
+2021-02-27 18:13:31,650 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-27 18:13:31,651 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\test\resources
+2021-02-27 18:13:40,906 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-27 18:13:40,907 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\main\resources
+2021-02-27 18:13:40,908 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\main\resources
+2021-02-27 18:13:40,920 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-27 18:13:40,921 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\test\resources
+2021-02-27 18:15:04,418 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-27 18:15:04,418 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\main\resources
+2021-02-27 18:15:04,418 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\main\resources
+2021-02-27 18:15:04,420 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-27 18:15:04,421 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\test\resources
+2021-02-27 18:15:20,436 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-27 18:15:20,438 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\main\resources
+2021-02-27 18:15:20,440 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\main\resources
+2021-02-27 18:15:20,448 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-27 18:15:20,449 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\test\resources
+2021-02-27 18:15:58,301 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-27 18:15:58,301 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\main\resources
+2021-02-27 18:15:58,301 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\main\resources
+2021-02-27 18:15:58,303 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-27 18:15:58,304 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\test\resources
+2021-02-27 18:17:01,566 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-27 18:17:01,566 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\main\resources
+2021-02-27 18:17:01,567 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\main\resources
+2021-02-27 18:17:01,568 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-27 18:17:01,568 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\test\resources
+2021-02-27 18:18:08,579 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-27 18:18:08,579 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\main\resources
+2021-02-27 18:18:08,579 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\main\resources
+2021-02-27 18:18:08,581 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-27 18:18:08,581 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\test\resources
+2021-02-27 18:21:14,511 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-27 18:21:14,511 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\main\resources
+2021-02-27 18:21:14,511 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\main\resources
+2021-02-27 18:21:14,514 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-27 18:21:14,514 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\test\resources
+2021-02-27 18:21:25,387 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-27 18:21:25,388 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\main\resources
+2021-02-27 18:21:25,388 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\main\resources
+2021-02-27 18:21:25,389 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-27 18:21:25,390 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\test\resources
+2021-02-27 18:22:13,156 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-27 18:22:13,156 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\main\resources
+2021-02-27 18:22:13,156 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\main\resources
+2021-02-27 18:22:13,162 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-27 18:22:13,163 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\test\resources
+2021-02-27 18:22:18,596 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-27 18:22:18,597 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\main\resources
+2021-02-27 18:22:18,598 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\main\resources
+2021-02-27 18:22:18,604 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-27 18:22:18,605 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\test\resources
+2021-03-02 18:58:07,873 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2021-03-02 19:03:17,741 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-02 19:03:17,742 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\main\resources
+2021-03-02 19:03:17,742 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\main\resources
+2021-03-02 19:03:17,745 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-02 19:03:17,745 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\test\resources
+2021-03-02 19:03:31,507 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-02 19:03:31,510 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\main\resources
+2021-03-02 19:03:31,512 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\main\resources
+2021-03-02 19:03:31,521 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-02 19:03:31,522 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\test\resources
+2021-03-02 19:15:38,955 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-03-02 19:16:01,097 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-02 19:16:01,098 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\main\resources
+2021-03-02 19:16:01,098 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\main\resources
+2021-03-02 19:16:01,104 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-02 19:16:01,104 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\test\resources
+2021-03-02 19:16:02,250 [Worker-3: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration App (1) references closed project indieWearhaul
+org.eclipse.core.runtime.CoreException: Launch configuration App (1) references closed project indieWearhaul
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1843)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1715)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:55)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:40)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:224)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:208)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:521)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:409)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:401)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:427)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:72)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:824)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:990)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:149)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:84)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2021-03-02 19:16:02,270 [Worker-3: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration App (1) references closed project indieWearhaul
+org.eclipse.core.runtime.CoreException: Launch configuration App (1) references closed project indieWearhaul
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1843)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1715)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:55)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:40)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:224)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:208)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:521)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:409)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:402)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:427)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:72)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:824)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:990)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:149)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:84)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2021-03-02 19:16:02,303 [Worker-3: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration App (1) references closed project indieWearhaul
+org.eclipse.core.runtime.CoreException: Launch configuration App (1) references closed project indieWearhaul
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1843)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1715)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:55)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:40)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:224)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:208)
+	at org.eclipse.debug.internal.core.LaunchManager.launchConfigurationChanged(LaunchManager.java:2130)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.writeNewFile(LaunchConfigurationWorkingCopy.java:374)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave0(LaunchConfigurationWorkingCopy.java:257)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:227)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:185)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:403)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:427)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:72)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:824)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:990)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:149)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:84)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2021-03-02 19:16:23,973 [Worker-7: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: springbootfinal:indieWearhaul:0.0.1-SNAPSHOT @ C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\pom.xml.
+2021-03-02 19:16:26,980 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-02 19:16:26,981 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\main\resources
+2021-03-02 19:16:26,982 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\main\resources
+2021-03-02 19:16:26,988 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-02 19:16:26,988 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\test\resources
+2021-03-02 19:16:27,087 [Worker-7: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.springbootweektwo:inventoryManagement:0.0.1-SNAPSHOT @ C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Week 2\inventoryManagement\pom.xml.
+2021-03-02 19:16:29,019 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-02 19:16:29,030 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-03-02 19:16:29,052 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-03-02 19:16:29,058 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-02 19:16:29,058 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Week 2\inventoryManagement\src\test\resources
+2021-03-02 19:16:56,856 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-02 19:16:56,862 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-02 19:16:56,864 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-02 19:16:56,869 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-02 19:16:56,870 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\test\resources
+2021-03-02 19:17:22,093 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-02 19:17:22,094 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-03-02 19:17:22,097 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-02 19:17:22,100 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-02 19:17:22,100 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\test\resources
+2021-03-02 19:17:55,567 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-02 19:17:55,570 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-03-02 19:17:55,586 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-02 19:17:55,594 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-02 19:17:55,594 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\test\resources
+2021-03-02 19:19:05,695 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-02 19:19:05,697 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-03-02 19:19:05,700 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-03-02 19:19:05,703 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-02 19:19:05,703 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\test\resources
+2021-03-02 19:19:21,406 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-02 19:19:21,408 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-03-02 19:19:21,417 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-03-02 19:19:21,424 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-02 19:19:21,424 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\test\resources
+2021-03-02 19:19:39,425 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-02 19:19:39,426 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-03-02 19:19:39,438 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-03-02 19:19:39,453 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-02 19:19:39,454 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\test\resources
+2021-03-02 19:28:23,103 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-02 19:28:23,105 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-03-02 19:28:23,113 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-03-02 19:28:23,118 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-02 19:28:23,118 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\test\resources
+2021-03-02 19:29:54,526 [Worker-14: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration App (1) references closed project indieWearhaul
+org.eclipse.core.runtime.CoreException: Launch configuration App (1) references closed project indieWearhaul
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1843)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1715)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:55)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:40)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:224)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:208)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:521)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:409)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:401)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:427)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:72)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:824)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:990)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:149)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:84)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2021-03-02 19:29:54,534 [Worker-14: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration App (1) references closed project indieWearhaul
+org.eclipse.core.runtime.CoreException: Launch configuration App (1) references closed project indieWearhaul
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1843)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1715)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:55)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:40)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:224)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:208)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:521)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:409)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:402)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:427)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:72)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:824)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:990)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:149)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:84)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2021-03-02 19:29:54,553 [Worker-14: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration App (1) references closed project indieWearhaul
+org.eclipse.core.runtime.CoreException: Launch configuration App (1) references closed project indieWearhaul
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1843)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1715)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:55)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:40)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:224)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:208)
+	at org.eclipse.debug.internal.core.LaunchManager.launchConfigurationChanged(LaunchManager.java:2130)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.writeNewFile(LaunchConfigurationWorkingCopy.java:374)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave0(LaunchConfigurationWorkingCopy.java:257)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:227)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:185)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:403)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:427)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:72)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:824)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:990)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:149)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:84)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2021-03-02 19:29:58,658 [Worker-12: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: springbootfinal:indieWearhaul:0.0.1-SNAPSHOT @ C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\pom.xml.
+2021-03-02 19:30:00,460 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-02 19:30:00,460 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-03-02 19:30:00,463 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-03-02 19:30:00,466 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-02 19:30:00,467 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leo\Desktop\Back End Coding Bootcamp\Web API with Spring Boot\Final Project\indieWearhaul\src\test\resources

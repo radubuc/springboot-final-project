@@ -8,6 +8,8 @@ import javax.persistence.GenerationType;
 import javax.persistence.Id;
 import javax.persistence.OneToMany;
 
+import springbootfinal.indieWearhaul.util.MembershipLevel;
+
 @Entity
 public class Customer {
 
@@ -18,7 +20,7 @@ public class Customer {
 	private String phone;
 	private Address address;
 	private Set<Order> order;
-//	private MembershipLevel level;
+	private MembershipLevel level;
 	
 	@Id
 	@GeneratedValue(strategy = GenerationType.AUTO)
@@ -80,7 +82,13 @@ public class Customer {
 		this.order = order;
 	}
 	
+	public MembershipLevel getLevel() {
+		return level;
+	}
 	
+	public void setLevel(MembershipLevel level) {
+		this.level = level;
+	}
 	
 	
 }
