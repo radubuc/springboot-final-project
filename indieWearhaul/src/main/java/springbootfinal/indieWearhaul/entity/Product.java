@@ -22,7 +22,7 @@ public class Product {
 	private double price;
 	
 	@JsonIgnore
-	private Set<Order> order;
+	private Set<Orders> order;
 	
 	@Id
 	@GeneratedValue(strategy = GenerationType.AUTO)
@@ -60,13 +60,13 @@ public class Product {
 	
 	@ManyToMany(cascade = CascadeType.ALL)
 	@JoinTable(name = "product_orders",
-		joinColumns = @JoinColumn(name = "productId", referencedColumnName = "product_id"),
-		inverseJoinColumns = @JoinColumn(name = "orderId", referencedColumnName = "order_id"))
-	public Set<Order> getOrder() {
+		joinColumns = @JoinColumn(name = "productId", referencedColumnName = "id"),
+		inverseJoinColumns = @JoinColumn(name = "orderId", referencedColumnName = "id"))
+	public Set<Orders> getOrder() {
 		return order;
 	}
 	
-	public void setOrders(Set<Order> order) {
+	public void setOrder(Set<Orders> order) {
 		this.order = order;
 	}
 }

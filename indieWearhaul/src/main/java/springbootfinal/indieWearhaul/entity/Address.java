@@ -4,7 +4,6 @@ import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
 import javax.persistence.Id;
-import javax.persistence.JoinColumn;
 import javax.persistence.OneToOne;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
@@ -63,8 +62,7 @@ public class Address {
 		this.zip = zip;
 	}
 	
-	@OneToOne(mappedBy = "customer")
-	@JoinColumn(name = "customerId")
+	@OneToOne(mappedBy = "address")
 	public Customer getCustomer() {
 		return customer;
 	}

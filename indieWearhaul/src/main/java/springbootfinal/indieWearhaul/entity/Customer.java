@@ -2,11 +2,14 @@ package springbootfinal.indieWearhaul.entity;
 
 import java.util.Set;
 
+import javax.persistence.CascadeType;
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
 import javax.persistence.Id;
+import javax.persistence.JoinColumn;
 import javax.persistence.OneToMany;
+import javax.persistence.OneToOne;
 
 import springbootfinal.indieWearhaul.util.MembershipLevel;
 
@@ -19,8 +22,9 @@ public class Customer {
 	private String lastName;
 	private String phone;
 	private Address address;
-	private Set<Order> order;
+	private Set<Orders> order;
 	private MembershipLevel level;
+	private Credentials credentials;
 	
 	@Id
 	@GeneratedValue(strategy = GenerationType.AUTO)
@@ -64,7 +68,8 @@ public class Customer {
 		this.phone = phone;
 	}
 	
-	@OneToMany(mappedBy = "customer")
+	@OneToOne(cascade = CascadeType.ALL)
+	@JoinColumn(name = "id")
 	public Address getAddress() {
 		return address;
 	}
@@ -74,11 +79,11 @@ public class Customer {
 	}
 	
 	@OneToMany(mappedBy = "customer")
-	public Set<Order> getOrder() {
+	public Set<Orders> getOrder() {
 		return order;
 	}
 	
-	public void setOrder(Set<Order> order) {
+	public void setOrder(Set<Orders> order) {
 		this.order = order;
 	}
 	
@@ -88,6 +93,16 @@ public class Customer {
 	
 	public void setLevel(MembershipLevel level) {
 		this.level = level;
+	}
+
+	@OneToOne(cascade = CascadeType.ALL)
+	@JoinColumn(name = "id")
+	public Credentials getCredentials() {
+		return credentials;
+	}
+
+	public void setCredentials(Credentials credentials) {
+		this.credentials = credentials;
 	}
 	
 	

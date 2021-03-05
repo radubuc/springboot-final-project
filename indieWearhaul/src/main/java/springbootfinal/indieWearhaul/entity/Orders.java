@@ -15,7 +15,7 @@ import com.fasterxml.jackson.annotation.JsonIgnore;
 import springbootfinal.indieWearhaul.util.OrderStatus;
 
 @Entity
-public class Order {
+public class Orders {
 
 	private Long id;
 	private double Total;

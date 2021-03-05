@@ -10,7 +10,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import springbootfinal.indieWearhaul.entity.Customer;
-import springbootfinal.indieWearhaul.entity.Order;
+import springbootfinal.indieWearhaul.entity.Orders;
 import springbootfinal.indieWearhaul.entity.Product;
 import springbootfinal.indieWearhaul.repository.CustomerRepository;
 import springbootfinal.indieWearhaul.repository.OrderRepository;
@@ -34,10 +34,10 @@ public class OrderService {
 	@Autowired
 	private ProductRepository productRepo;
 	
-	public Order submitNewOrder(Set<Long> productIds, Long customerId) throws Exception {
+	public Orders submitNewOrder(Set<Long> productIds, Long customerId) throws Exception {
 		try {
 			Customer customer = customerRepo.findOne(customerId);
-			Order order = initializeNewOrder(productIds, customer);
+			Orders order = initializeNewOrder(productIds, customer);
 			return repo.save(order);
 		} catch (Exception e) {
 			logger.error("Exception occurred while trying to create new order for customer: " + customerId, e);
@@ -45,9 +45,9 @@ public class OrderService {
 		}
 	}
 
-	public Order cancelOrder(Long orderId) throws Exception {
+	public Orders cancelOrder(Long orderId) throws Exception {
 		try {
-			Order order = repo.findOne(orderId);
+			Orders order = repo.findOne(orderId);
 			order.setStatus(OrderStatus.CANCELED);
 			return repo.save(order);
 		} catch (Exception e) {
@@ -56,9 +56,9 @@ public class OrderService {
 		}
 	}
 	
-	public Order completeOrder(Long orderId) throws Exception {
+	public Orders completeOrder(Long orderId) throws Exception {
 		try {
-			Order order = repo.findOne(orderId);
+			Orders order = repo.findOne(orderId);
 			order.setStatus(OrderStatus.DELIVERED);
 			return repo.save(order);
 		} catch (Exception e){
@@ -67,8 +67,8 @@ public class OrderService {
 		}
 	}
 	
-	private Order initializeNewOrder(Set<Long> productIds, Customer customer) {
-		Order order = new Order();
+	private Orders initializeNewOrder(Set<Long> productIds, Customer customer) {
+		Orders order = new Orders();
 		order.setProducts(convertToProductSet(productRepo.findAll(productIds)));
 		order.setOrdered(LocalDate.now());
 		order.setEstimatedDelivery(LocalDate.now().plusDays(DELIVERY_DAYS));
@@ -79,7 +79,7 @@ public class OrderService {
 		return order;
 	}
 	
-	private void addOrderToProducts(Order order) {
+	private void addOrderToProducts(Orders order) {
 		Set<Product> products = order.getProducts();
 		for (Product product : products) {
 			product.getOrder().add(order);
