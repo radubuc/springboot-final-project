@@ -1,1 +1,5 @@
+Repo:
 https://github.com/radubuc/springboot-final-project
+
+Postman Screenshots:
+https://drive.google.com/drive/folders/1VwU2a36g5z9jKiZYgvgflsZhxqpBkLCn?usp=sharing

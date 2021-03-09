@@ -60,6 +60,7 @@ public class OrderService {
 		try {
 			Orders order = repo.findOne(orderId);
 			order.setStatus(OrderStatus.DELIVERED);
+			order.setDelivered(LocalDate.now());
 			return repo.save(order);
 		} catch (Exception e){
 			logger.error("Exception occurred while trying to complete order: " + orderId, e);

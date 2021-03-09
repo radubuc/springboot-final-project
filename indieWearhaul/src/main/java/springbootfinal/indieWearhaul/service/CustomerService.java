@@ -37,10 +37,23 @@ private static final Logger logger = LogManager.getLogger(CustomerService.class)
 	public Customer updateCustomer(Customer customer, Long id) throws Exception {
 		try {
 			Customer oldCustomer = repo.findOne(id);
-			oldCustomer.setAddress(customer.getAddress());
-			oldCustomer.setFirstName(customer.getFirstName());
-			oldCustomer.setLastName(customer.getLastName());
-			oldCustomer.setLevel(customer.getLevel());
+			if (!(customer.getEmail() == null))
+				oldCustomer.setEmail(customer.getEmail());
+			
+			if (!(customer.getAddress() == null))
+				oldCustomer.setAddress(customer.getAddress());
+			
+			if (!(customer.getFirstName() == null))
+				oldCustomer.setFirstName(customer.getFirstName());
+			
+			if (!(customer.getLastName() == null))
+				oldCustomer.setLastName(customer.getLastName());
+			
+			if (!(customer.getPhone() == null))
+				oldCustomer.setPhone(customer.getPhone());
+			
+			if (!(customer.getLevel() == null))
+				oldCustomer.setLevel(customer.getLevel());
 			return repo.save(oldCustomer);
 		} catch (Exception e){
 			logger.error("Exception occurred while trying to update customer: " + id, e);

@@ -17,6 +17,15 @@ private static final Logger logger = LogManager.getLogger(ProductService.class);
 	@Autowired
 	private ProductRepository repo;
 	
+	public Product getProductById(Long id) throws Exception {
+		try {
+			return repo.findOne(id);
+		} catch (Exception e) {
+			logger.error("Exception occurred while trying to retrieve product: " + id, e);
+			throw e;
+		}
+	}
+	
 	public Iterable<Product> getProducts() {
 		return repo.findAll();
 	}

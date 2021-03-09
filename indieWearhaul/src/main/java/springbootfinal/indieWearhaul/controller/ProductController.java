@@ -19,6 +19,15 @@ public class ProductController {
 	@Autowired
 	private ProductService service;
 	
+	@RequestMapping(value="/{id}", method=RequestMethod.GET)
+	public ResponseEntity<Object> getProduct(@PathVariable Long id) {
+		try {
+			return new ResponseEntity<Object>(service.getProductById(id), HttpStatus.OK);
+		} catch (Exception e) {
+			return new ResponseEntity<Object>(e.getMessage(), HttpStatus.NOT_FOUND);
+		}
+	}
+	
 	@RequestMapping(method=RequestMethod.GET)
 	public ResponseEntity<Object> getProducts() {
 		return new ResponseEntity<Object>(service.getProducts(), HttpStatus.OK);
