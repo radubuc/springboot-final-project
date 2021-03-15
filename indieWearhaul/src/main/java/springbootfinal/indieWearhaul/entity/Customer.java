@@ -24,7 +24,8 @@ public class Customer {
 	private Address address;
 	private Set<Orders> order;
 	private MembershipLevel level;
-	private Credentials credentials;
+	private String hash;
+	private String username;
 	
 	@Id
 	@GeneratedValue(strategy = GenerationType.AUTO)
@@ -95,14 +96,20 @@ public class Customer {
 		this.level = level;
 	}
 
-	@OneToOne(cascade = CascadeType.ALL)
-	@JoinColumn(name = "id")
-	public Credentials getCredentials() {
-		return credentials;
+	public String getHash() {
+		return hash;
 	}
 
-	public void setCredentials(Credentials credentials) {
-		this.credentials = credentials;
+	public void setHash(String hash) {
+		this.hash = hash;
+	}
+
+	public String getUsername() {
+		return username;
+	}
+
+	public void setUsername(String username) {
+		this.username = username;
 	}
 	
 	

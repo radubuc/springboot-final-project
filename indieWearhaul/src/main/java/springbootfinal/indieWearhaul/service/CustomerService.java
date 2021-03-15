@@ -1,10 +1,15 @@
 package springbootfinal.indieWearhaul.service;
 
+import javax.naming.AuthenticationException;
+
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.dao.DataIntegrityViolationException;
+import org.springframework.security.crypto.bcrypt.BCrypt;
 import org.springframework.stereotype.Service;
 
+import springbootfinal.indieWearhaul.entity.Credentials;
 import springbootfinal.indieWearhaul.entity.Customer;
 import springbootfinal.indieWearhaul.repository.CustomerRepository;
 import springbootfinal.indieWearhaul.service.CustomerService;
@@ -69,4 +74,25 @@ private static final Logger logger = LogManager.getLogger(CustomerService.class)
 			throw new Exception("Unable to delete customer.");
 		}
 	}
+	
+
+//		public Customer register(Credentials cred) throws AuthenticationException {
+//			Customer customer = new Customer();
+//			customer.setUsername(customer.getUsername());
+//			customer.setHash(BCrypt.hashpw(cred.getPassword(), BCrypt.gensalt()));
+//			try {		
+//			repo.save(customer);
+//			return customer;
+//			} catch (DataIntegrityViolationException e) {
+//				throw new AuthenticationException("Username not available.");
+//			}
+//			}
+//		public Customer login(Credentials cred) throws AuthenticationException {
+//			Customer foundUser = repo.findByUsername(cred.getUsername());
+//			if(foundUser !=null && BCrypt.checkpw(cred.getPassword(), foundUser.getHash())) {
+//				return foundUser;
+//			}
+//			throw new AuthenticationException("Incorrect username or password");
+//		}
+	
 }
