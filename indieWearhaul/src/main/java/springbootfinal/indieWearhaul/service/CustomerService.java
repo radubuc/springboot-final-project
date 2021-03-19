@@ -76,23 +76,23 @@ private static final Logger logger = LogManager.getLogger(CustomerService.class)
 	}
 	
 
-//		public Customer register(Credentials cred) throws AuthenticationException {
-//			Customer customer = new Customer();
-//			customer.setUsername(customer.getUsername());
-//			customer.setHash(BCrypt.hashpw(cred.getPassword(), BCrypt.gensalt()));
-//			try {		
-//			repo.save(customer);
-//			return customer;
-//			} catch (DataIntegrityViolationException e) {
-//				throw new AuthenticationException("Username not available.");
-//			}
-//			}
-//		public Customer login(Credentials cred) throws AuthenticationException {
-//			Customer foundUser = repo.findByUsername(cred.getUsername());
-//			if(foundUser !=null && BCrypt.checkpw(cred.getPassword(), foundUser.getHash())) {
-//				return foundUser;
-//			}
-//			throw new AuthenticationException("Incorrect username or password");
-//		}
+		public Customer register(Credentials cred) throws AuthenticationException {
+			Customer customer = new Customer();
+			customer.setUsername(cred.getUsername());
+			customer.setHash(BCrypt.hashpw(cred.getPassword(), BCrypt.gensalt()));
+			try {		
+			repo.save(customer);
+			return customer;
+			} catch (DataIntegrityViolationException e) {
+				throw new AuthenticationException("Username not available.");
+			}
+			}
+		public Customer login(Credentials cred) throws AuthenticationException {
+			Customer foundUser = repo.findByUsername(cred.getUsername());
+			if(foundUser !=null && BCrypt.checkpw(cred.getPassword(), foundUser.getHash())) {
+				return foundUser;
+			}
+			throw new AuthenticationException("Incorrect username or password");
+		}
 	
 }
