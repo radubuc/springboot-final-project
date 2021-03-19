@@ -11,7 +11,7 @@
 
 	<name>indieWearhaul</name>
 	<!-- FIXME change it to the project's website -->
-	<url>http://www.example.com</url>
+	<url>https://github.com/radubuc/springboot-final-project</url>
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -71,6 +71,24 @@
 			<artifactId>spring-security-crypto</artifactId>
 			<version>5.1.2.RELEASE</version>
 		</dependency>
+		
+		<dependency>
+  			<groupId>io.jsonwebtoken</groupId>
+  			<artifactId>jjwt-api</artifactId>
+  			<version>0.10.5</version>
+  		</dependency>
+  	
+  		<dependency>
+  			<groupId>io.jsonwebtoken</groupId>
+  			<artifactId>jjwt-impl</artifactId>
+  			<version>0.10.5</version>
+  		</dependency>
+  	
+  		<dependency>
+  			<groupId>io.jsonwebtoken</groupId>
+  			<artifactId>jjwt-jackson</artifactId>
+  			<version>0.10.5</version>
+  		</dependency>
 	
 		<dependency>
 			<groupId>junit</groupId>
